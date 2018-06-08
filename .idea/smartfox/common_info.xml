@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SmartFoxWorkToolsProjectState">
+    <option name="branch" value="master" />
+    <option name="gitUrl" value="https://github.com/JiangJibo/zookeeper.git" />
+    <option name="localBranch" value="master" />
+    <option name="revision" value="bc4850b3d8a6af8a6de60d7b5357210400b88917" />
+  </component>
+</project>
